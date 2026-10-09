@@ -1,0 +1,7 @@
+.DS_Store
+**/*.zh.bak
+**/*.tmp
+__MACOSX/
+compress_images.sh
+.verify_refs.py
+.rewrite_refs.py
